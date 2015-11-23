@@ -1,5 +1,5 @@
 # Site settings
-title: Hi
+title: 超net
 header-img: "img/autumn2.jpg"
 tagline: " "  
 description: "好奇、尝鲜、反省、记录"  
@@ -19,9 +19,9 @@ favicon: img/favicon.ico
 
 #douban_username: Azeril
 #twitter_username: Azeril_Lapland  
-#github_username: Azeril  
+github_username: chaonet
 #facebook_username: Azeril_Lapland  
-#weibo_username: Azeril  
+weibo_username: 超net 
 #zhihu_username: Azeril  
 
 # Build settings  
